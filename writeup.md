@@ -8,6 +8,8 @@
 
 ![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/b6053ff0d64c74d64b8e151522d9e0ab7ca567d4/screenshot4.png)
 
+![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/1a0949e952c8b004a17cc01cb9587421d52f5404/screenshot5.png)
+
 
 
 
