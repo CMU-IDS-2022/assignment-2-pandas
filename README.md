@@ -2,7 +2,7 @@
 
 * **Team members**: ruhihemp@andrew.cmu.edu and swapnilk@andrew.cmu.edu 
 * **Online URL**: https://share.streamlit.io/cmu-ids-2022/assignment-2-pandas 
-
+* **Repo Link**: https://github.com/CMU-IDS-2022/assignment-2-pandas
 ## Instructions
 
 ### Run Locally
