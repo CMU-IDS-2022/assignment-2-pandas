@@ -1,6 +1,7 @@
 streamlit
 pandas
 altair
+from PIL import Image
 sklearn
 matplotlib.pyplot as plt
 RandomForestRegressor
