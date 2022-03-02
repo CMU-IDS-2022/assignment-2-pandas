@@ -128,3 +128,5 @@ st.header("Conclusion")
 The genre and the artist that have produced the most popular 
 songs till date can also be discovered using the above visualizations.'''
 
+st.markdown(
+    "This project was created by Ruhi Patel and Swapnil Kadakia for the [Interactive Data Science](https://dig.cmu.edu/ids2022) course at [Carnegie Mellon University](https://www.cmu.edu).")
