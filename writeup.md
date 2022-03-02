@@ -1,6 +1,6 @@
 # Song Popularity Analysis
 
-![alt text]
+![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/c1abae6b6eebbd2a3e4d190db2f8f68e3d9901d5/screenshot.jpeg)
 
 
 Recorded music revenue has hovered between 4.6 and 4.9 billion U.S. dollars since 2009. Music industry is huge and one popular song can make you a billionaire overnight. By using our application, we can get a clear idea about the features that drive the popularity of the songs. The genre and the artist that have produced the most popular 
