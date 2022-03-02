@@ -7,7 +7,7 @@ def load_data(name):
     return pd.read_csv(name)
 
 
-data = load_data("/Users/ruhipatel/Documents/IDS-CODES/SpotifyFeatures.csv")
+data = load_data("SpotifyFeatures.csv")
 
 #CODE TO RUN ML
 
@@ -86,7 +86,7 @@ hist1= alt.Chart(data).transform_filter(brush).mark_bar(filled=True).encode(
 
 #Visualization3
 
-data1 = load_data("/Users/ruhipatel/Documents/IDS-CODES/SpotifyFeatures.csv")
+data1 = load_data("SpotifyFeatures.csv")
 df = data1
 #selecting only the songs with popularity greater than 90
 df.drop(df[df['popularity'] < 90].index, inplace = True) 
@@ -106,7 +106,7 @@ st.title("Song Popularity Analysis")
 st.header("Feature importance using RandomForest Regressor ")
 
 
-image = Image.open('/Users/ruhipatel/Downloads/feature_importance.jpeg')
+image = Image.open('feature_importance.jpeg')
 st.text("Extracting top features for song popularity")
 st.image(image, caption='Feature Importance')
 
