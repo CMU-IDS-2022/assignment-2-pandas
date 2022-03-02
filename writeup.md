@@ -1,9 +1,9 @@
 # Song Popularity Analysis
 
-![A screenshot of your application. Could be a GIF.](screenshot.png)
+(screenshot.png)
 
 
-Recorded music revenue has hovered between 4.6 and 4.9 billion U.S. dollars since 2009. Music industry is huge and one popular song can make you a billionaire overnightBy using our application, we can get a clear idea about the features that drive the popularity of the songs. The genre and the artist that have produced the most popular 
+Recorded music revenue has hovered between 4.6 and 4.9 billion U.S. dollars since 2009. Music industry is huge and one popular song can make you a billionaire overnight. By using our application, we can get a clear idea about the features that drive the popularity of the songs. The genre and the artist that have produced the most popular 
 songs till date can also be discovered using the applications.
 
 ## Project Goals
