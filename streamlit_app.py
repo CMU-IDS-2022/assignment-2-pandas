@@ -19,15 +19,10 @@ data = load_data("SpotifyFeatures.csv")
 # df = data
 
 # #removing the unnecessary data
-# df = df.drop('track_id', 1)
-# df = df.drop('time_signature', 1)
 # df = df.drop('genre', 1)
 # df = df.drop('track_name', 1)
 # df = df.drop('artist_name' , 1)
 
-# #converting categorical to numerical data
-# df['mode'] = df['mode'].replace({'Major' : 1, 'Minor' : 0})
-# df['key'] = df['key'].replace({'A':1, 'A#': 2,'B': 3, 'C' : 4, 'C#': 5, 'D': 6, 'D#': 7, 'E': 8, 'F': 9, 'F#': 10, 'G': 11, 'G#': 12})
 
 # Y = df["popularity"]  
 # X = df.iloc[:, 1:]
