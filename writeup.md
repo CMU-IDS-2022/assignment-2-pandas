@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/4e7cd2b96dcaa023fbcdd8a0a825dfb6c107044a/screenshot2.png)
 
-![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/6b5e43f6651fea8c55912d316c15dc39a8ba484d/screenshot3.png)
+![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/27a5cb0214c99ec200f77be62eb521a52d2111d4/screenshot3.png)
 
 ![alt text](https://github.com/CMU-IDS-2022/assignment-2-pandas/blob/b6053ff0d64c74d64b8e151522d9e0ab7ca567d4/screenshot4.png)
 
